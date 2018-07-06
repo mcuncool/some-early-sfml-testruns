@@ -1,0 +1,1 @@
+enum GameObjectState { MOTION, ATTACK, BLOCK, DEAD };

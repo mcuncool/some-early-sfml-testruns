@@ -1,0 +1,2 @@
+enum GameObjectType
+{PLAYER, ENEMY};
